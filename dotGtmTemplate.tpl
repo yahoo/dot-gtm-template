@@ -1,5 +1,5 @@
 ﻿___TERMS_OF_SERVICE___
-
+Copyright 2022, Yahoo.
 By creating or modifying this file you agree to Google Tag Manager's Community
 Template Gallery Developer Terms of Service available at
 https://developers.google.com/tag-manager/gallery-tos (or such other URL as
