@@ -1,9 +1,10 @@
 ﻿___TERMS_OF_SERVICE___
-Copyright 2022, Yahoo.
+
 By creating or modifying this file you agree to Google Tag Manager's Community
 Template Gallery Developer Terms of Service available at
 https://developers.google.com/tag-manager/gallery-tos (or such other URL as
 Google may provide), as modified from time to time.
+
 
 ___INFO___
 
@@ -105,13 +106,6 @@ ___TEMPLATE_PARAMETERS___
       },
       {
         "type": "TEXT",
-        "name": "ev",
-        "displayName": "Event Value",
-        "simpleValueType": true,
-        "canBeEmptyString": true
-      },
-      {
-        "type": "TEXT",
         "name": "et",
         "displayName": "Event Type",
         "simpleValueType": true,
@@ -180,7 +174,7 @@ const setInWindow = require('setInWindow');
 const injectScript = require('injectScript');
 const makeTableMap = require('makeTableMap');
 const preDefinedProps = ['pixelId', 'he', 'auid'];
-const standardProps = ['ec', 'ev', 'et', 'ea', 'gv', 'product_id'];
+const standardProps = ['ec', 'et', 'ea', 'gv', 'product_id'];
 const customProps = data.customPropList;
 const customPropList = customProps && customProps.length ? makeTableMap(customProps, 'propName', 'propValue') : {};
 const projectId = 10000;
