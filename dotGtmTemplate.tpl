@@ -13,6 +13,7 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "Yahoo Dot Pixel",
+  "categories": ["ADVERTISING"],
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
