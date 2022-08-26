@@ -1,0 +1,5 @@
+homepage: "https://developer.yahooinc.com"
+documentation: "https://developer.yahooinc.com/native/dynamic-product-ads/dottags/dpa-dot-tag-signal-tag-manager"
+versions:
+  - sha: 8074c16ddfb8c8af0acc5442f6c6b977741649763701963b982c62d09837ddba
+    changeNotes: Initial release.
